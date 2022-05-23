@@ -8,5 +8,5 @@ com口速度 可以自己改
 然后再转换成16进制 通过串口发送到上位机
 然后 用python解码之后 
 用opencv绘制出来
-
+一个py文件 一个TC264的.c文件
 需要的库有numpy opencv serial三个
